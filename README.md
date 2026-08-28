@@ -14,7 +14,6 @@ A beginner-friendly exploratory data analysis (EDA) project that investigates ho
 - [Key Findings](#-key-findings)
 - [Visualizations](#-visualizations)
 - [Project Structure](#-project-structure)
-- [How to Run](#-how-to-run)
 - [Technologies Used](#-technologies-used)
 - [Limitations](#-limitations)
 - [Future Improvements](#-future-improvements)
